@@ -1,0 +1,20 @@
+body {
+    background: #eee;
+}
+
+.logo {
+    width: 125%;
+    height: 180%;
+}
+
+.main {
+    background: #fff;
+    width: 730px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px;
+}
+
+h3 {
+    text-align: center;
+}
